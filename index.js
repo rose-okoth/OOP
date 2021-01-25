@@ -3,7 +3,7 @@ class Car {
     wheels;
     seats;
     windows;
-    side_mirrors;
+    sideMirrors;
     engine;
     clutch;
     brake;
@@ -13,7 +13,7 @@ class Car {
         this.wheels = wheels;
         this.seats = seats;
         this.windows = windows;
-        this.side_mirrors = side_mirrors;
+        this.sideMirrors = sideMirrors;
         this.engine = engine;
         this.clutch = clutch;
         this.brake = brake;
